@@ -1,4 +1,4 @@
-## Homework 09
+## Web Scraping with Scrapy
 
 In this work, we used the `Scrapy` framework. We scraped the site http://quotes.toscrape.com.
 
